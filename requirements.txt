@@ -1,0 +1,11 @@
+einops==0.8.1
+h5py==3.10.0
+numpy==2.2.2
+pandas==2.2.3
+pytorch_lightning==2.1.3
+resize_right==0.0.2
+scipy==1.15.1
+skimage==0.0
+torch==2.4.0+cu124
+torchmetrics==1.2.1
+wandb==0.16.1
